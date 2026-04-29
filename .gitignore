@@ -1,0 +1,8 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Dados gerados pelo sistema em tempo de execução
+produtos.json
+vendas.json
+movimentos.json
